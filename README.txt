@@ -12,4 +12,4 @@ Additionally, we included password verification to access the interface, ensurin
 Finally, for greater consistency and reliability, we added validation for phone number and email address formats, making it impossible to add contact without valid information.
 
 We hope you will enjoy our work !
-PS : the password is “Victor is the best teacher ever”
+PS : the password is “Mr Planas-Bielsa is the best teacher ever”
