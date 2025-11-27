@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice Smith",
+    "job_title": "Finance Director",
+    "phone": "+987654321",
+    "email": "alice.smith@email.com"
+  },
+  {
+    "name": "John Doe",
+    "job_title": "HR Director",
+    "phone": "+123456789",
+    "email": "john.doe@email.com"
+  }
+]
