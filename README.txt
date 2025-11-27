@@ -1,4 +1,5 @@
 # ML-Project-Contact-Book-Application
+
 We started from a business-oriented approach based on the requirements of the assignment. 
 The idea was to access a client directory within a company. We therefore developed a contact book that can be used directly through the interface.
 The basic features are included: adding, deleting, or editing a contact, as well as displaying an overview of the book or searching for a specific contact.
